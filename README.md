@@ -2,6 +2,7 @@
 - 👀 I’m interested in free and open source software
 - 🌱 I’m currently learning lua
 - 💞️ I’m looking to collaborate on ...
+- Favourite projects [ani-cli](https://github.com/pystardust/ani-cli), [nvim-telescope](https://github.com/nvim-telescope/telescope.nvim)
 - 📫 How to reach me ...
 
 <!---
