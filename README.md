@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58996975/183349231-8fc6171d-580a-44bd-b8ac-792a4ce45dcd.png" />
+  <img src="https://user-images.githubusercontent.com/58996975/183355755-a1e42c62-d808-415b-a453-95e55322bec0.png" />
 </p>
 
 - 👋 Linux User, Shell wizard
