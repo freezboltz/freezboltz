@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Gnu-coreutils, go, rust
 - 🖊️ Language know: c, python, bash, lua, javascript
 - 💘 Favourite projects [ani-cli](https://github.com/pystardust/ani-cli), [yt-dlp](https://github.com/yt-dlp/yt-dlp), [nvim-telescope](https://github.com/nvim-telescope/telescope.nvim)
-- 🎈 [BTW I USE ARCH](https://archlinux.org/)
+- 🎈 [I USE ARCH BTW](https://archlinux.org/)
 - 🧚🏻 Window manager I use [AwesomeWm](https://awesomewm.org/)
 
 <!---
