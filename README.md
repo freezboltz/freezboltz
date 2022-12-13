@@ -8,7 +8,7 @@
 - 🖊️ Language know: c, python, bash, lua, javascript
 - 💘 Favourite projects [ani-cli](https://github.com/pystardust/ani-cli), [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - 🎈 [I USE ARCH BTW](https://archlinux.org/)
-- 🧚🏻 Window manager I use [AwesomeWm](https://awesomewm.org/)
+- 🧚🏻 Window manager I use [AwesomeWm](https://awesomewm.org/), [qtile](http://www.qtile.org/)
 
 <!---
 freezboltz/freezboltz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
